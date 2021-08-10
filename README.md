@@ -4,7 +4,7 @@
 
 The project uses [npm](https://www.npmjs.com/).
 
-Download the repository and run the following command:
+Download the template and run the following command:
 
 ```
 npm ci
